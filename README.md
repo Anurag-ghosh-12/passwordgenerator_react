@@ -1,8 +1,12 @@
 # Password Generator using React 
-<p align="center">
-  <img src="(https://github.com/Anurag-ghosh-12/passwordgenerator_react/blob/main/pwdgendark.jpg)" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+  <h2> Password Generator with two themes: Light mode and Dark mode</h2>
+  <p align="center"> <img src="pwdgendark.jpg" width="350" title="dark theme">
+  <img  src="pwdgenlight.jpg" width="350" title="light theme">
+    </p>
+  <h2> Password Generator Copy feature</h2>
+  <p align="center">  Copies the generated password on clicking the Copy Button.<br><br><img src="pwdgencopy.jpg" width="350" title="light theme"> </p>
+  
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
